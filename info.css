@@ -1,5 +1,10 @@
 section img{
-    float: left;
+    width: 20%;
 }
-section h1,p{
+section h2,p{
+    display: inline;
+}
+section{
+    display: flex;
+    justify-content: flex-start;
 }
