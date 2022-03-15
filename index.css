@@ -6,6 +6,8 @@ nav{
     margin-top: 0px;
     font-size: 150%;
     margin-bottom: 10px;
+    border-top: solid gray 1px;
+    border-bottom: solid gray 1px;
 }
 nav a:hover{
     background-color: gray;
